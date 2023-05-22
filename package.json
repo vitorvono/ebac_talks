@@ -16,4 +16,8 @@
   },
   "main": "index.js",
   "description": ""
+},
+"engines": {
+  "node": "16.x"
+  },
 }
